@@ -1,5 +1,5 @@
 # Spikeball
-The Task
+## The Task/n
 In 2008, Spikeball Roundnet Association was founded and played a major role in popularizing this sport. 
 Historically, Spikeball has been a recreational sport, but with a recent rise in publicity and popularity, 
 the Spikeball Roundnet Association set its sights on breaking into the professional sports realm. Roundnet 
@@ -11,7 +11,7 @@ data, we can measure which aspects of the game are interesting and create a view
 viewability metric will allow us to test future rule changes to see which ways the game can be shaped to be 
 more interesting to viewers.
 
-The Data
+## The Data /n
 In order to assess the different aspects of Spikeball that viewers find interesting, we gathered video clips
 from Instagram and Youtube. We settled on short clips that average 10-20 seconds in length instead of full 
 game videos to reduce survey length. Instagram mainly supplied highlight plays such as aces, body blocks, and
@@ -21,5 +21,5 @@ Spikeball official Facebook page. Over the course of about a week, we were able 
 Each participant watched a total of 4 videos, and the videos and order that each participant watched was 
 randomized.
 
-Analysis
+## Analysis/n
 For detailed analysis, please read our powerpoint or watch our video!
