@@ -23,3 +23,6 @@ randomized.
 
 ## Analysis
 For detailed analysis, please read our powerpoint or watch our video!
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
